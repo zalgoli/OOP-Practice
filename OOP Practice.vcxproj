@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Circle.cpp" />
+    <ClCompile Include="Cube.cpp" />
     <ClCompile Include="OOP Practice.cpp" />
     <ClCompile Include="Rectangle.cpp" />
     <ClCompile Include="Shape.cpp" />
@@ -147,9 +148,11 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Circle.h" />
+    <ClInclude Include="Cube.h" />
     <ClInclude Include="Rectangle.h" />
     <ClInclude Include="Shape.h" />
     <ClInclude Include="Square.h" />
+    <ClInclude Include="ThreeDimensionalShape.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -15,7 +15,6 @@ public:
 
 private:
 	double m_A;
-
 };
 
 #endif // SQUARE_H
